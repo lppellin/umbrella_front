@@ -11,7 +11,7 @@
 ## <a id="introducao"></a>1. Introdução
 
 O Aplicativo Umbrella foi desenvolvido como objetivo de otimizar o controle de movimentações de produtos entre filiais, e gerir usuários (criação de usuários, ativar e inativar).
-Neste projeto fui responsável pelas telas de listagem e cadastro de movimentações.
+Neste projeto fui responsável pelas telas de listagem e cadastro de movimentações, e por definir o design da interface.
 
 ##  <a id="funcionalidades-principais"></a>2. Funcionalidades Principais
 
@@ -83,4 +83,5 @@ Neste projeto fui responsável pelas telas de listagem e cadastro de movimentaç
 
 ## 7. Apresentação
 [Link para a apresentação do projeto](https://www.canva.com/design/DAGpJ8xQ9ss/9T5y2kQWqx2I_E0IeJbggQ/edit?utm_content=DAGpJ8xQ9ss&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
 
